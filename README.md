@@ -2,19 +2,19 @@
 
 # Curso de Python 2.
 ## Examen 1.-
-<img src="https://i.postimg.cc/pTpsRN0s/Imagen-de-Whats-App-2025-02-23-a-las-22-09-32-11abdce0.jpg" width="100"/>
+<img src="https://i.postimg.cc/pTpsRN0s/Imagen-de-Whats-App-2025-02-23-a-las-22-09-32-11abdce0.jpg" width="250"/>
 
 ## Examen 2.-
-<img src="https://i.postimg.cc/vTvgKTWk/Imagen-de-Whats-App-2025-02-23-a-las-22-15-18-1fce7539.jpg" width="100"/>
+<img src="https://i.postimg.cc/vTvgKTWk/Imagen-de-Whats-App-2025-02-23-a-las-22-15-18-1fce7539.jpg" width="250"/>
 
 ## Examen 3.-
-<img src="https://i.postimg.cc/kMHkVsKV/Imagen-de-Whats-App-2025-02-23-a-las-22-22-55-009a3594.jpg" width="100"/>
+<img src="https://i.postimg.cc/kMHkVsKV/Imagen-de-Whats-App-2025-02-23-a-las-22-22-55-009a3594.jpg" width="250"/>
 
 ## Examen 4.-
-<img src="https://i.postimg.cc/YSVs4qL5/Imagen-de-Whats-App-2025-02-23-a-las-22-28-37-ed2d9a7d.jpg" width="100"/>
+<img src="https://i.postimg.cc/YSVs4qL5/Imagen-de-Whats-App-2025-02-23-a-las-22-28-37-ed2d9a7d.jpg" width="250"/>
 
 ## Examen Final.-
-<img src="https://i.postimg.cc/7PpJBvSq/Imagen-de-Whats-App-2025-02-23-a-las-23-07-40-27dada0b.jpg" width="100"/>
+<img src="https://i.postimg.cc/7PpJBvSq/Imagen-de-Whats-App-2025-02-23-a-las-23-07-40-27dada0b.jpg" width="250"/>
 
 
 
