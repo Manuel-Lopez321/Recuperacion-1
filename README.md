@@ -1,6 +1,8 @@
 # Recuperacion-1
 
-# ProyectoNavideno2024
+# Curso de Python 2.
+## Examen 1.-
+<img src="https://drive.google.com/file/d/1P2V97kMl8hRGb-jBhCE8e1Vb1c0Qxo-J/view?usp=sharing" width="100"/>
 
 # Personaje2024
 ## Nombre del personaje
