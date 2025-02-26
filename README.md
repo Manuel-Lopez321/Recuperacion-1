@@ -19,6 +19,8 @@
 # Actividades:
 
 ## Actividad 2:
+Diagrama de Node-Red:
+<img src="https://i.postimg.cc/bYSCbpP7/Imagen-de-Whats-App-2025-02-25-a-las-18-25-25-f581a7a6.jpg" width="250"/>
 Video: https://drive.google.com/file/d/1ixuEjj98WUoAgGLEfUQD3hF9MufNr3dv/view?usp=drive_link
 Codigo:
 import network
