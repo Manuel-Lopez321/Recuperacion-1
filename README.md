@@ -38,8 +38,8 @@
 <img src="https://i.postimg.cc/fWHsGNhP/IMG-20250225-WA0062.jpg" width="250"/>
 
 ## Actividad 4:
-Video: https://drive.google.com/file/d/1W--JtCVg1CHI2KMle4SguFdh-Q-EvLXH/view?usp=sharing
-imagenes:
+### Video: https://drive.google.com/file/d/1W--JtCVg1CHI2KMle4SguFdh-Q-EvLXH/view?usp=sharing
+### imagenes:
 <img src="https://i.postimg.cc/7LS6yY14/Imagen-de-Whats-App-2025-02-25-a-las-17-37-08-9042821d.jpg" width="250"/>
 <img src="https://i.postimg.cc/d09YB7mh/Imagen-de-Whats-App-2025-02-25-a-las-17-37-08-c64c3f31.jpg" width="250"/>
 <img src="https://i.postimg.cc/L4LrBg92/Imagen-de-Whats-App-2025-02-25-a-las-17-37-08-e1a98222.jpg" width="250"/>
