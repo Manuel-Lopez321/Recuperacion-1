@@ -20,13 +20,18 @@
 ## Actividad 1:
 Video: https://drive.google.com/file/d/1TUdwO-KSeTN60USADFShFo09k2yw_qjJ/view?usp=sharing
 Diagrama NODE-RED
-<img src="https://i.postimg.cc/t4ntpJFr/DIAGRAMA-NODERED.jpg" width="250"/>
+<img src="https://i.postimg.cc/XYjSJ22s/Diagrama-Unidad-1.jpg" width="250"/>
+Coidigo:
+https://drive.google.com/file/d/11VTlXBuhQ4R2oyFd7ykGBGYJbTin_yVf/view?usp=sharing
 
 
 ## Actividad 2:
 Video: https://drive.google.com/file/d/1ug7zzrynpR7b1BlnTG7wMpkUOM8vEYDM/view?usp=sharing
 Codigo:
 https://drive.google.com/file/d/18YbUCrpyxjWbtOfbmnoBvzLWbKN9CmSd/view?usp=sharing
+Diagrama:
+<img src="https://i.postimg.cc/YSts8hc8/Diagrama-actividad-2.jpg" width="250"/>
+
 
 ## Actividad 3:
 <img src="https://i.postimg.cc/1tGxCkrv/IMG-20250225-WA0059.jpg" width="250"/>
