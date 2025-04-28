@@ -1,4 +1,4 @@
-# Recuperacion-1
+# Recuperacion-2
 
 # Curso de Python 2.
 ## Examen 1.-
@@ -18,15 +18,14 @@
 
 # Actividades:
 ## Actividad 1:
-### Video: https://drive.google.com/file/d/1TUdwO-KSeTN60USADFShFo09k2yw_qjJ/view?usp=sharing
-### Diagrama NODE-RED
-<img src="https://i.postimg.cc/XYjSJ22s/Diagrama-Unidad-1.jpg" width="250"/>
+### Video: https://drive.google.com/file/d/1HRFEI4lB65qxLyi5zcJwuu3Ia9v9jP7E/view?usp=drivesdk
+### Diagrama de conexion
+<img src="https://i.postimg.cc/nhG5v24j/4-DFA0876-EECF-48-BB-9-B3-B-3-AFD72039-C87.png" width="250"/>
 
 
 
 ## Actividad 2:
 ### Video: https://drive.google.com/file/d/1ug7zzrynpR7b1BlnTG7wMpkUOM8vEYDM/view?usp=sharing
-
 ### Diagrama:
 <img src="https://i.postimg.cc/YSts8hc8/Diagrama-actividad-2.jpg" width="250"/>
 
